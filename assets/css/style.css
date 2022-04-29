@@ -288,4 +288,14 @@ border-bottom: 2px solid black;}
 	width: 30%;
 	padding-right: 8px;
 }
-
+.question {
+	padding-left: 32px;
+	margin-bottom: 8px;
+}
+.answer {
+	padding-left: 0;
+	margin-bottom: 8px;
+}
+.footertext {
+	font-size: 12px;
+}
